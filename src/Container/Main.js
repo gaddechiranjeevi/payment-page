@@ -20,7 +20,7 @@ const Edyoda = () => {
                     <div className="rightcontent text-end">
                         <p className="searchicon"><i class="fa fa-search"/></p>
                         <p className="login" >Log in</p>
-                        <p className="button buttontext">join now</p>
+                        <p className="button buttontext">JOIN NOW</p>
                     </div>
                 </div>
             </div>
